@@ -10,3 +10,4 @@ timer = Tools.Timer()
 data = aocd.get_data(session, day=1)
 
 timer.stop()
+
